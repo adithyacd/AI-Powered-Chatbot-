@@ -1,4 +1,4 @@
-# Intelligent Hybrid Chatbot with General and Document-based Q&A
+#Chatbot with General and Document-based Q&A
 
 This project is an intelligent chatbot that provides answers to general questions as well as document-specific queries based on user-uploaded files. It integrates two powerful components:
 
@@ -16,9 +16,4 @@ This project is an intelligent chatbot that provides answers to general question
 
 ---
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
