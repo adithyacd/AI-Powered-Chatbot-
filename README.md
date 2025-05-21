@@ -14,4 +14,7 @@ HELV is an intelligent chatbot that provides answers to general questions as wel
 
 ---
 
+## How to run
+
+- run the command **streamlit run frontend.py** in the terminal.
 
