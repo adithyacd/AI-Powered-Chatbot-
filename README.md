@@ -1,6 +1,3 @@
-HELV
-#HELV is a Chatbot with General and Document-based Q&A
-
 HELV is an intelligent chatbot that provides answers to general questions as well as document-specific queries based on user-uploaded files. It integrates two powerful components:
 
 - **General Q&A:** Powered by LangChain with Gemini 1.5 Flash API for conversational AI.
