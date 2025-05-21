@@ -1,6 +1,6 @@
 
 import streamlit as st
-from temp import (
+from main import (
     pdf_to_text, text_to_text, excel_to_text,
     setup_query_engine, handle_chat
 )
